@@ -19,7 +19,7 @@ nu krijg je dit menu:
                 3: Start Simulation mode
         :
 
-hier kan je kiezen tussen een nieuwe data set te creeren, een dataset in te laden van users.pkl, stations.pkl en bikes.pkl of de simulatio te starten
+hier kan je kiezen tussen een nieuwe data set te creeren, een dataset in te laden van users.pkl, stations.pkl en bikes.pkl of de simulation te starten
 
 ## simulatie modus
 
