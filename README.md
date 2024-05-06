@@ -25,14 +25,14 @@ hier kan je kiezen tussen een nieuwe data set te creeren, een dataset in te lade
 
 De simulatie modus kan via het menu gestart worden of via:
 
-    python main.py -s
+        python main.py -s
 
 Nu krijg moet je ingeven hoelang de simulatie moet uitvoeren:
 
-    $ python main.py -s
-    [NOTE] The data simulated will be saved automatically and used until you create a new data set
+        $ python main.py -s
+        [NOTE] The data simulated will be saved automatically and used until you create a new data set
 
-    Input for how long you want to run the simulation (in seconds):
+        Input for how long you want to run the simulation (in seconds):
 
 
 ## Fiets lenen/ontlenen
