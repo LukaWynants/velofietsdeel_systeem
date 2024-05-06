@@ -1,7 +1,9 @@
 
 # verslag
 
-1. Run python main.py 
+## 
+1. Run:
+    python main.py 
 
 nu krijg je dit menu:
 
