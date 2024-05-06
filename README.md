@@ -7,7 +7,7 @@
 
 2. Start het programma starten met:
 
-    python main.py -s
+    python main.py
 
 nu krijg je dit menu:
 
