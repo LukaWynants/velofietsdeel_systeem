@@ -3,8 +3,7 @@
 ## programma starten
 1. je kan het programma starten met:
 
-    $ python main.py
-
+    python main.py -s
 
 nu krijg je dit menu:
 
