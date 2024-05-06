@@ -3,11 +3,11 @@
 ## programma starten
 1. Clone de repository met:
 
-    git clone https://github.com/LukaWynants/velofietsdeel_systeem.git
+        git clone https://github.com/LukaWynants/velofietsdeel_systeem.git
 
 2. Start het programma starten met:
 
-        python main.py
+       python main.py
 
 nu krijg je dit menu:
 
@@ -25,7 +25,7 @@ hier kan je kiezen tussen een nieuwe data set te creeren, een dataset in te lade
 
 De simulatie modus kan via het menu gestart worden of via:
 
-        python main.py -s
+    python main.py -s
 
 Nu krijg moet je ingeven hoelang de simulatie moet uitvoeren:
 
