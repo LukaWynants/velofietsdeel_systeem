@@ -3,6 +3,7 @@
 
 ## 
 1. Run:
+
     python main.py 
 
 nu krijg je dit menu:
