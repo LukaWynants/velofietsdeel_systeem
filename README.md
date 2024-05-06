@@ -34,7 +34,7 @@ Nu krijg moet je ingeven hoelang de simulatie moet uitvoeren:
     [NOTE] The data simulated will be saved automatically and used until you create a new data set
 
     Input for how long you want to run the simulation (in seconds):
-
+Geef hier de aantal seconden in dat de simulatie moet runnen
 
 ## Fiets lenen/ontlenen
 
