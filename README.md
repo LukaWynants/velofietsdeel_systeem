@@ -1,13 +1,13 @@
 # verslag
 
 ## programma starten
-1. Clone de repository met:
+Clone de repository met:
 
         git clone https://github.com/LukaWynants/velofietsdeel_systeem.git
 
-2. Start het programma starten met:
+Start het programma starten met:
 
-       python main.py
+        python main.py
 
 nu krijg je dit menu:
 
