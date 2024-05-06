@@ -48,8 +48,10 @@ Nadat je dit hebt gedaan, zou je het volgende menu moeten zien:
     :
 Je wordt willekeurig toegewezen aan een gebruikersobject om te gebruiken. In dit voorbeeld ben je als gebruiker 254 ingelogd en heb je momenteel geen fiets.
 
-Om een fiets te lenen, selecteer optie 2.
+### Om een fiets te lenen, selecteer optie 2.
+
 Je gaat nu een lijst met stations te zien krijgen. Kies de index van het station waarvan je een fiets wilt lenen. Hierna krijg je een lijst met sloten te zien waarin fietsen beschikbaar zijn. Kies hier  de index van het slot waaruit je een fiets wilt lenen.
 
-Om een fiets terug te brengen, selecteer optie 1.
+### Om een fiets terug te brengen, selecteer optie 1.
+
 Je gaat nu een lijst met stations te zien krijgen. Kies hier de index van het station waar je de fiets wilt terugbrengen. Daarna krijg je alle beschikbare sloten te zien in dat station waarin geen fiets staat. Kies de index van het slot waarin je de fiets wilt terugplaatsen.
