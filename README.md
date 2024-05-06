@@ -1,7 +1,11 @@
 # verslag
 
 ## programma starten
-1. je kan het programma starten met:
+1. Clone de repository met:
+
+    git clone https://github.com/LukaWynants/velofietsdeel_systeem.git
+
+2. Start het programma starten met:
 
     python main.py -s
 
