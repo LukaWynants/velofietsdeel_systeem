@@ -4,7 +4,7 @@
 ## 
 1. Run:
 
-    python main.py 
+    $ python main.py 
 
 nu krijg je dit menu:
 
