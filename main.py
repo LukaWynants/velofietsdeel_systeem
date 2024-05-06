@@ -194,19 +194,20 @@ if __name__ == "__main__":
             save_data("users.pkl", users)
             save_data("bikes.pkl", bikes)
         
-    #set a user
+    #set a random user
     user = random.choice(users)
 
     while True:
             print(f"Logged in as user: {user.user_id}")
+            
             if isinstance(user.bike, str):
-                print("you do not currently own a bike")
+                print("you do not currently own a bike\n")
             else:
-                print(f"you own bike: {user.bike.bike_id}")
+                print(f"you own bike: {user.bike.bike_id}\n")
             
             choice2 = int(input("""
-        1: check bike in
-        2: lend a bike\n:
+        1: check a bike in
+        2: check a bike out\n:
         """))
             
             if choice2 == 1:
