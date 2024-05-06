@@ -36,4 +36,18 @@ Nu krijg moet je ingeven hoelang de simulatie moet uitvoeren:
 Voer hier het aantal seconden in dat de simulatie moet duren.
 
 ## Fiets lenen/ontlenen
+Om een fiets te lenen/ontlenen, moet je ofwel een nieuwe dataset aanmaken of een bestaande dataset inladen. 
+Nadat je dit hebt gedaan, zou je het volgende menu moeten zien:
 
+    Logged in as user: 254
+    you do not currently own a bike
+
+
+            1: check a bike in
+            2: check a bike out
+    :
+Je wordt willekeurig toegewezen aan een gebruikersobject om te gebruiken. In dit voorbeeld ben je als gebruiker 254 ingelogd en heb je momenteel geen fiets.
+
+Om een fiets te lenen, selecteer optie 2.
+
+Om een fiets terug te brengen, selecteer optie 1.
