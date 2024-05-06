@@ -1,5 +1,5 @@
 
-#verslag
+# verslag
 
 1. Run python main.py 
 
@@ -16,4 +16,4 @@ nu krijg je dit menu:
 hier kan je kiezen tussen een nieuwe data set te creeren, een dataset in te laden van users.pkl, stations.pkl en bikes.pkl of de simulatio te starten
 
 
-##simulatie modus
+## simulatie modus
