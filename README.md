@@ -23,7 +23,8 @@ hier kan je kiezen tussen een nieuwe data set te creeren, een dataset in te lade
 
 ## simulatie modus
 
-De simulatie modus kan via het menu gestart worden of via:
+De simulatie modus gaat voor n aantal seconden random users een fiets laten lenen en ontlenen van een random slot in een random station
+Je kan de simultie modus starten via het menu gestart worden of via:
 
     python main.py -s
 
