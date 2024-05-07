@@ -206,8 +206,8 @@ if __name__ == "__main__":
                 print(f"you own bike: {user.bike.bike_id}\n")
             
             choice2 = int(input("""
-        1: check a bike in
-        2: check a bike out\n:
+        1: check a bike in (ontlenen)
+        2: check a bike out (lenen)\n:
         """))
             
             if choice2 == 1:
